@@ -8,3 +8,4 @@ This repository contains all the tasks given by [Prodigy Infotech](https://prodi
 | 2   | [StopWatch](/PRODIGY_WD_02/README.md)  | PRODIGY_WD_02 | [Demo](https://prodigy-tech-internship-kprl.vercel.app/)  | Stopwatch with laps                    |
 | 3   | [Tic Tac Toe](/PRODIGY_WD_03/Readme.md) | PRODIGY_WD_03 | [Demo](https://prodigy-tech-internship.vercel.app/)      | Two player game - TIC TAC TOE          |
 | 4   | [Personal Portfolio](/PRODIGY_WD_04/readme.md) | PRODIGY_WD_04 | [Demo](https://projects-nine-blond.vercel.app/)   | Portfolio website showing about myself |
+| 5   | [Weather App](/PRODIGY_WD_04/README.md) | PRODIGY_WD_05 | [Demo](https://projects-nine-blond.vercel.app/)   | Weather App |
