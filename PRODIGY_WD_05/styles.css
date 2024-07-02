@@ -1,0 +1,61 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Updated font-family for a modern look */
+  background: linear-gradient(135deg, #e3f2fd, #f3e5f5); /* Gradient background for visual interest */
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  color: #424242; /* Added a default text color */
+}
+
+.container {
+  background: #ffffff;
+  padding: 25px; /* Increased padding for a better spacing */
+  border-radius: 12px; /* Smoother border-radius */
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15); /* More prominent shadow for 3D effect */
+  text-align: center;
+  width: auto; /* Auto width based on content */
+  transition: transform 0.3s ease-in-out; /* Transition for hover effect */
+}
+
+.container:hover {
+  transform: scale(1.05); /* Scale effect on hover */
+}
+
+.location-input {
+  margin-bottom: 25px; /* Increased margin for better spacing */
+}
+
+input[type="text"] {
+  padding: 12px; /* Increased padding for better text input visibility */
+  width: 250px; /* Wider text input */
+  border: 2px solid #bdbdbd; /* Thicker border */
+  border-radius: 6px; /* More rounded borders */
+  transition: border-color 0.3s ease-in-out; /* Smooth transition for focus */
+}
+
+input[type="text"]:focus {
+  border-color: #1e88e5; /* Highlighted border on focus */
+}
+
+button {
+  padding: 12px 24px; /* More padding for a bigger button */
+  border: none;
+  background: #26a69a; /* Teal background color */
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s; /* Transition for hover effect */
+  font-weight: bold; /* Bold font for better readability */
+}
+
+button:hover {
+  background: #00796b; /* Darker shade on hover for button */
+}
+
+.weather-info {
+  margin-top: 25px; /* Increased margin for better layout */
+  font-size: 1.1em; /* Larger font size for readability */
+  font-weight: 500; /* Medium font weight for emphasis */
+}
